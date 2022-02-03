@@ -1,0 +1,30 @@
+.principal {
+  border: 2px solid yellow;
+  color: black;
+  display: flex;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+.origen {
+  flex-basis: 100%;
+  flex-grow: 1;
+  padding: 10px;
+}
+
+.arrastrar {
+  color: white;
+  background-color: blue;
+  font-weight: normal;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  padding: 10px;
+}
+
+.destino {
+  color: white;
+  background-color: green;
+  flex-basis: 100%;
+  flex-grow: 1;
+  padding: 10px;
+}

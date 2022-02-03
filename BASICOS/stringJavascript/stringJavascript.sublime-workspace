@@ -1,0 +1,307 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bus",
+				"buscarpalabra"
+			],
+			[
+				"if",
+				"ife"
+			],
+			[
+				"co",
+				"contador"
+			],
+			[
+				"for",
+				"for"
+			],
+			[
+				"t",
+				"table"
+			],
+			[
+				"echo",
+				"echo()"
+			],
+			[
+				"ac",
+				"action"
+			],
+			[
+				"nom",
+				"nombre"
+			],
+			[
+				"opt",
+				"option"
+			],
+			[
+				"int",
+				"intval()"
+			],
+			[
+				"var",
+				"var1"
+			],
+			[
+				"l",
+				"label"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"php",
+				"phpinfo()"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/CLIENTE/BASICOS/stringJavascript"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/CLIENTE/BASICOS/stringJavascript/cadenas1.js",
+		"/C/xampp/htdocs/CLIENTE/BASICOS/stringJavascript/cadenas1.html",
+		"/C/xampp/htdocs/CLIENTE/BASICOS/stringJavascript/cadenas.js",
+		"/C/xampp/htdocs/CLIENTE/BASICOS/stringJavascript/cadenas.html",
+		"/C/xampp/htdocs/SERVIDOR/BASICOS/General/calculadora/suma.php",
+		"/C/xampp/htdocs/SERVIDOR/BASICOS/General/calculadora/multiplicacion.php",
+		"/C/xampp/htdocs/SERVIDOR/BASICOS/General/calculadora/multiplicacion.html",
+		"/C/xampp/htdocs/SERVIDOR/BASICOS/General/calculadora/resta.html",
+		"/C/xampp/htdocs/SERVIDOR/BASICOS/General/calculadora/suma.html",
+		"/C/xampp/htdocs/SERVIDOR/BASICOS/General/calculadora/resta.php",
+		"/C/xampp/htdocs/SERVIDOR/BASICOS/General/suma.html",
+		"/C/xampp/htdocs/SERVIDOR/BASICOS/General/interaccion1.php",
+		"/C/xampp/htdocs/SERVIDOR/BASICOS/string/string.html",
+		"/C/xampp/htdocs/SERVIDOR/BASICOS/string/ejercicio1.php",
+		"/C/xampp/htdocs/SERVIDOR/BASICOS/string/ejercicio2.php",
+		"/C/xampp/htdocs/SERVIDOR/BASICOS/string/ejercicio3.php",
+		"/C/xampp/htdocs/SERVIDOR/BASICOS/string/ejercicio4.php",
+		"/C/xampp/htdocs/CLIENTE/BASICOS/TablaDinamica/TablaDinamica.js",
+		"/C/xampp/htdocs/CLIENTE/BASICOS/TablaDinamica/TablaDinamica.html",
+		"/C/xampp/htdocs/SERVIDOR/BASICOS/FunMatematicas/trigonometria.php",
+		"/C/xampp/htdocs/SERVIDOR/BASICOS/FunMatematicas/maxmin.php",
+		"/C/xampp/htdocs/SERVIDOR/BASICOS/FunMatematicas/funMatematicas.html",
+		"/C/xampp/htdocs/SERVIDOR/BASICOS/FunMatematicas/aleatorio.php",
+		"/C/xampp/htdocs/SERVIDOR/BASICOS/Formulario/formulario1.php",
+		"/C/xampp/htdocs/SERVIDOR/BASICOS/Formulario/formulario1.html",
+		"/C/xampp/htdocs/SERVIDOR/BASICOS/dia/dias.php",
+		"/C/xampp/htdocs/SERVIDOR/BASICOS/dia/dias.html",
+		"/C/xampp/htdocs/SERVIDOR/BASICOS/Selector/selector.php",
+		"/C/xampp/htdocs/SERVIDOR/BASICOS/Selector/selector.html",
+		"/C/xampp/htdocs/CLIENTE/BASICOS/Array/Array.js",
+		"/C/xampp/htdocs/CLIENTE/BASICOS/Prompt Operaciones Basicas/Prompt.js",
+		"/C/xampp/htdocs/CLIENTE/BASICOS/DeclaraVariables/DeclaraVariables.js",
+		"/C/xampp/htdocs/CLIENTE/BASICOS/Array/Array.html",
+		"/C/xampp/htdocs/CLIENTE/BASICOS/Prompt Operaciones Basicas/Prompt.html",
+		"/C/xampp/htdocs/CLIENTE/BASICOS/DeclaraVariables/DeclaraVariables.html",
+		"/C/xampp/htdocs/CLIENTE/BASICOS/Array/array.html",
+		"/C/xampp/htdocs/SERVIDOR/BASICOS/Formulario/comparaVariables.html",
+		"/C/xampp/htdocs/SERVIDOR/BASICOS/Formulario/comparaVariables.php",
+		"/C/xampp/htdocs/SERVIDOR/BASICOS/General/deletrea.html",
+		"/C/xampp/htdocs/CLIENTE/BASICOS/VariablesTipos/variables.html",
+		"/C/xampp/htdocs/CLIENTE/BASICOS/VariablesTipos/variables.js",
+		"/C/xampp/htdocs/CLIENTE/BASICOS/Formulario/comparaVariables.hmtl",
+		"/C/xampp/htdocs/CLIENTE/BASICOS/CrearTablaHTML/crearTabla.html",
+		"/C/xampp/htdocs/CLIENTE/BASICOS/CrearTablaHTML/crearTabla.js",
+		"/C/xampp/htdocs/CLIENTE/BASICOS/CrearTablaHTML/cre",
+		"/C/xampp/htdocs/SERVIDOR/BASICOS/variables.php",
+		"/C/xampp/htdocs/SERVIDOR/BASICOS/deletrea.html",
+		"/C/xampp/htdocs/SERVIDOR/BASICOS/deletrea.php",
+		"/C/xampp/htdocs/SERVIDOR/BASICOS/suma.html",
+		"/C/xampp/htdocs/SERVIDOR/BASICOS/interaccion1.php",
+		"/C/xampp/htdocs/SERVIDOR/BASICOS/nombre.html",
+		"/C/xampp/htdocs/MiPrimerPHP.php",
+		"/C/xampp/htdocs/SoloPHP.php",
+		"/C/xampp/htdocs/CLIENTE/BASICOS/practica1/ejercicio1.html",
+		"/C/xampp/htdocs/CLIENTE/BASICOS/practica1/MiPrimerJavascript.js",
+		"/C/xampp/htdocs/CLIENTE/BASICOS/practica1/MiSegundoJavaScript.js",
+		"/C/xampp/htdocs/CLIENTE/BASICOS/practica1/variable.js",
+		"/C/xampp/htdocs/pagDinamica.php",
+		"/C/xampp/htdocs/DWES/BASICOS/global.php",
+		"/C/xampp/htdocs/DWES/BASICOS/tiposvariables.php"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\xampp\\htdocs\\CLIENTE\\BASICOS\\stringJavascript"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		]
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

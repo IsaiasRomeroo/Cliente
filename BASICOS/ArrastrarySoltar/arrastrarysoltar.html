@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Practica de arrastrar y soltar</title>
+	<script type="text/javascript" src="js/arrastrarysoltar.js"></script>
+	<link rel="stylesheet" type="text/css" href="css/arrastrarysoltar.css">
+</head>
+<body>
+	<h1>Practica de arrastrar y soltar</h1>
+	<div class="principal">
+		<div class="origen" ondragover="onDragOver(event)" ondrop="onDrop(event)">
+			<div id="elemArrastrable" class="arrastrar" draggable="true" ondragstart="onDragStart(event)">
+				<p>Div que se puede arrastrar</p>
+			</div>
+			<img src="img/imagenfurbo.jpg" id="elemArrastrable" class="arrastrar" draggable="true" ondragstart="onDragStart(event)">
+		</div>
+		<div class="destino" ondragover="onDragOver(event)" ondrop="onDrop(event)">
+			<p>Div de destino</p>
+		</div>
+	</div>
+	<div class="">
+		
+	</div>
+</body>
+</html>
